@@ -1,0 +1,11 @@
+@media screen and(max-width:900) {
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active {
+    outline: none;
+    box-shadow: none;
+}
